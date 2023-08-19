@@ -1,0 +1,13 @@
+2
+0
+Player 1 turn to roll
+Click piece to move
+true
+0
+true 65 65 true 145 65 true 65 140 false 205 245 
+0
+true 425 65 true 505 65 true 425 140 true 505 140 
+0
+true 425 435 true 505 435 true 425 500 true 505 500 
+0
+false 125 325 true 145 435 true 65 500 true 145 500 
